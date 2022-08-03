@@ -1,1 +1,1 @@
-# .Knowledge-Based Systems
+# Knowledge-Based Systems
