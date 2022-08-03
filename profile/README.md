@@ -17,4 +17,5 @@ in the fields of semantic technologies, artificial intelligence, and knowledge m
 ### Other Related Projects
 
 - [VLog](https://github.com/karmaresearch/vlog): a Datalaog engine
-- [SECAI: School of Embedded Composite AI](https://secai.org): DAAD Konrad Zuse School of Excellence in Artificial Intelligence
+- [SECAI: School of Embedded Composite AI](https://secai.org): DAAD Konrad Zuse School of Excellence in Artificial Intelligence (TU Dresden/Leipzig University)
+- [ICCL: International Center for Computational Logic](https://iccl.inf.tu-dresden.de): federation of symbolic AI researach groups at TU Dresden
