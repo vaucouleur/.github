@@ -1,6 +1,6 @@
 ## Knowledge-Based Systems
 
-Welcome to the github space of the research group [Knowledge-Based Systems](https://kbs.inf.tu-dresden.de) (KBS) at [TU Dresden](https://tu-dresden.de/)!
+Welcome to the GitHub space of the research group [Knowledge-Based Systems](https://kbs.inf.tu-dresden.de) (KBS) at [TU Dresden](https://tu-dresden.de/)!
 We are using this space for
 - Our research software projects (obviously)
 - Evaluation data and background resources for publications
@@ -16,7 +16,7 @@ in the fields of semantic technologies, artificial intelligence, and knowledge m
 
 ### Other Related Projects
 
-- [VLog](https://github.com/karmaresearch/vlog): a Datalaog engine
+- [VLog](https://github.com/karmaresearch/vlog): a Datalog engine
 - [Acyclicity/Cyclicity Checker](https://gitlab.com/m0nstR/dmfa-checker/): a tool for checking sufficient conditions for (non-)termination of existential rule sets with disjunctions
 - [SECAI: School of Embedded Composite AI](https://secai.org): DAAD Konrad Zuse School of Excellence in Artificial Intelligence (TU Dresden/Leipzig University)
-- [ICCL: International Center for Computational Logic](https://iccl.inf.tu-dresden.de): federation of symbolic AI researach groups at TU Dresden
+- [ICCL: International Center for Computational Logic](https://iccl.inf.tu-dresden.de): federation of symbolic AI research groups at TU Dresden
